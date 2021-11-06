@@ -1,0 +1,10 @@
+<template>
+  <lightning-card title={i18n.currentLocation} icon-name="action:map">
+    <template if:true={showMap}>
+      <lightning-map map-markers={mapMarkers} zoom-level="10"></lightning-map>
+    </template>
+    <template if:false={showMap}>
+      <span class="slds-align_absolute-center"> {i18n.selectLocation} </span>
+    </template>
+  </lightning-card>
+</template>
