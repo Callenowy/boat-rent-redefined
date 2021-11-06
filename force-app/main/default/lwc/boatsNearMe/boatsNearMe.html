@@ -1,0 +1,10 @@
+<template>
+  <lightning-card class="slds-is-relative">
+    <template if:true={isLoading}>
+      <lightning-spinner variant="brand" alternative-text={i18n.loading}>
+      </lightning-spinner>
+    </template>
+    <lightning-map map-markers={mapMarkers}> </lightning-map>
+    <div slot="footer">{i18n.footerLabel}</div>
+  </lightning-card>
+</template>

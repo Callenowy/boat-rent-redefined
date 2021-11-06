@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>common_rating</fullName>
+        <categories>Common</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>rating</shortDescription>
+        <value>Rating</value>
+    </labels>
+    <labels>
+        <fullName>common_submit</fullName>
+        <categories>Common</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Submit</shortDescription>
+        <value>Submit</value>
+    </labels>
+    <labels>
+        <fullName>common_loading</fullName>
+        <categories>Common</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Loading</shortDescription>
+        <value>Loading</value>
+    </labels>
+    <labels>
+        <fullName>common_success</fullName>
+        <categories>Common</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Success</shortDescription>
+        <value>Success</value>
+    </labels>
+    <labels>
+        <fullName>common_error</fullName>
+        <categories>Common</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error</shortDescription>
+        <value>Error</value>
+    </labels>
+    <labels>
+        <fullName>common_name</fullName>
+        <categories>Common</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Name</shortDescription>
+        <value>Name</value>
+    </labels>
+    <labels>
+        <fullName>common_length</fullName>
+        <categories>Common</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Length</shortDescription>
+        <value>Length</value>
+    </labels>
+    <labels>
+        <fullName>common_price</fullName>
+        <categories>Common</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Price</shortDescription>
+        <value>Price</value>
+    </labels>
+    <labels>
+        <fullName>common_description</fullName>
+        <categories>Common</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Description</shortDescription>
+        <value>Description</value>
+    </labels>
+
+    <labels>
+        <fullName>Add_Review</fullName>
+        <categories>LWC Labels</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add Review</shortDescription>
+        <value>Add Review</value>
+    </labels>
+    <labels>
+        <fullName>Details</fullName>
+        <categories>LWC Labels</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Details</shortDescription>
+        <value>Details</value>
+    </labels>
+    <labels>
+        <fullName>Full_Details</fullName>
+        <categories>LWC Labels</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Full Details</shortDescription>
+        <value>Full Details</value>
+    </labels>
+    <labels>
+        <fullName>Please_select_a_boat</fullName>
+        <categories>LWC Labels</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Please select a boat</shortDescription>
+        <value>Please select a boat :)</value>
+    </labels>
+    <labels>
+        <fullName>Reviews</fullName>
+        <categories>LWC Labels</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Reviews</shortDescription>
+        <value>Reviews</value>
+    </labels>
+
+    <labels>
+        <fullName>boat_review_created</fullName>
+        <categories>Boat Review</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Review Created!</shortDescription>
+        <value>Review Created!</value>
+    </labels>
+    <labels>
+        <fullName>boat_no_reviews</fullName>
+        <categories>Boat Review</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No reviews available</shortDescription>
+        <value>No reviews available</value>
+    </labels>
+
+    <labels>
+        <fullName>boat_current_location</fullName>
+        <categories>Boat Map</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Current Boat Location</shortDescription>
+        <value>Current Boat Location</value>
+    </labels>
+    <labels>
+        <fullName>boat_select_location</fullName>
+        <categories>Boat Map</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please select a boat to see its location!</shortDescription>
+        <value>Please select a boat to see its location!</value>
+    </labels>
+
+    <labels>
+        <fullName>boat_search_card_title</fullName>
+        <categories>Boat Search</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Find a boat</shortDescription>
+        <value>Find a boat</value>
+    </labels>
+    <labels>
+        <fullName>boat_new_boat</fullName>
+        <categories>Boat Search</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New Boat</shortDescription>
+        <value>New Boat</value>
+    </labels>
+    <labels>
+        <fullName>boat_new_boat_create</fullName>
+        <categories>Boat Search</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Create New Boat</shortDescription>
+        <value>Create New Boat</value>
+    </labels>
+    <labels>
+        <fullName>boat_select_type</fullName>
+        <categories>Boat Search</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Choose a boat type</shortDescription>
+        <value>Choose a boat type</value>
+    </labels>
+    <labels>
+        <fullName>boat_ship_it</fullName>
+        <categories>Boat Search</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Ship it!</shortDescription>
+        <value>Ship it!</value>
+    </labels>
+    <labels>
+        <fullName>boat_gallery_tab</fullName>
+        <categories>Boat Search</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Gallery</shortDescription>
+        <value>Gallery</value>
+    </labels>
+    <labels>
+        <fullName>boat_editor_tab</fullName>
+        <categories>Boat Search</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Boat Editor</shortDescription>
+        <value>Boat Editor</value>
+    </labels>
+    <labels>
+        <fullName>boat_near_tab</fullName>
+        <categories>Boat Search</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Boats Near Me</shortDescription>
+        <value>Boats Near Me</value>
+    </labels>
+
+    <labels>
+        <fullName>boat_you_are_here</fullName>
+        <categories>Boats Near Me</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>You are here!</shortDescription>
+        <value>You are here!</value>
+    </labels>
+    <labels>
+        <fullName>boat_error_loading_boats</fullName>
+        <categories>Boats Near Me</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error loading Boats Near Me</shortDescription>
+        <value>Error loading Boats Near Me</value>
+    </labels>
+    <labels>
+        <fullName>boat_near_footer</fullName>
+        <categories>Boats Near Me</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Top 10 Only!</shortDescription>
+        <value>Top 10 Only!</value>
+    </labels>
+
+    <labels>
+        <fullName>boat_related_title</fullName>
+        <categories>Similar Boats</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Similar boats by</shortDescription>
+        <value>Similar boats by</value>
+    </labels>
+    <labels>
+        <fullName>boat_related_not_found</fullName>
+        <categories>Similar Boats</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>There are no related boats by</shortDescription>
+        <value>There are no related boats by</value>
+    </labels>
+
+    <labels>
+        <fullName>rating_error_loading</fullName>
+        <categories>Ratings</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error loading five-star</shortDescription>
+        <value>Error loading five-star</value>
+    </labels>
+
+</CustomLabels>
